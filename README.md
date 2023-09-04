@@ -1,0 +1,2 @@
+# GPR_fitting_interactive_potential
+Gaussian Process regression for fitting interatomic potentials
