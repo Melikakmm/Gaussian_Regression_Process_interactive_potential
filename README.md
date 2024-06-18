@@ -7,4 +7,4 @@ Two notebooks:
 2. [**Inferring a pair interaction model based on total energy information of a nobel gas cluster using multiple GPR models**](https://github.com/Melikakmm/Gaussian_Regression_Process_interactive_potential/blob/main/Cluster_GPR.ipynb)
 
 
-![](ouput2.png)
+![](output2.png)
