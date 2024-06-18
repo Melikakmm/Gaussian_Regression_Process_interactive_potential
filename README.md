@@ -2,4 +2,4 @@
 Gaussian Process regression for fitting interatomic potentials
 
 1. [**GPR to estimate the potential energy of water molecules**](https://github.com/Melikakmm/Gaussian_Regression_Process_interactive_potential/blob/main/Single_Molecule.ipynb)
-2. [**Multiple GPRs for Many body interaction(Inferring a pair interaction model based on total energy information of a nobel gas cluster)**](https://github.com/Melikakmm/Gaussian_Regression_Process_interactive_potential/blob/main/Cluster_GPR.ipynb)
+2. [**Inferring a pair interaction model based on total energy information of a nobel gas cluster**](https://github.com/Melikakmm/Gaussian_Regression_Process_interactive_potential/blob/main/Cluster_GPR.ipynb)
