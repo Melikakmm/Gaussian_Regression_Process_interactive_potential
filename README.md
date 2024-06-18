@@ -1,5 +1,5 @@
 # GPR_interactive_potential
 Gaussian Process regression for fitting interatomic potentials
 
-1. (a simple step ) a GPR for a single water molecule
-2. Multiple GPR for Many body interaction
+1. [**GPR to estimate the potential energy of water molecules**](https://github.com/Melikakmm/Gaussian_Regression_Process_interactive_potential/blob/main/Single_Molecule.ipynb)
+2. [**Inferring a pair interaction model based on total energy information of a nobel gas cluster using multiple GPR models**](https://github.com/Melikakmm/Gaussian_Regression_Process_interactive_potential/blob/main/Cluster_GPR.ipynb)
